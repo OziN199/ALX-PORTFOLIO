@@ -1,5 +1,5 @@
 body{
-    background-color: aqua;
+    background-color: rgb(199, 179, 20);
 }
 #container{
     height: 700px;
@@ -7,16 +7,26 @@ body{
     background-color: white;
     margin-left: 350px;
     border-radius: 30px;
+    padding: 5px;
 }
 
 .menu{
-    height: 200px;
-    width: 200px;
-    background-color: rgb(241, 25, 25);
+    height: 100px;
+    width: 100px;
+    background-color: rgb(227, 106, 106);
+    border-radius: 100px;
+
+}
+.menu2{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(76, 83, 211);
+    border-radius: 100px;
+    margin-left: 50px;
 
 }
 h1{
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: rgb(125, 112, 112);
-    margin-left: 50px;
+    margin-left: 100px;
 }
