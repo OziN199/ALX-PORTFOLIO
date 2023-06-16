@@ -2,9 +2,21 @@ body{
     background-color: aqua;
 }
 #container{
-
+    height: 700px;
+    width: 450px;
+    background-color: white;
+    margin-left: 350px;
+    border-radius: 30px;
 }
 
 .menu{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(241, 25, 25);
 
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(125, 112, 112);
+    margin-left: 50px;
 }
